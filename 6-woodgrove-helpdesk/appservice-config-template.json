@@ -11,7 +11,7 @@
   },
   {
     "name": "AppSettings__CompanyName",
-    "value": "Woodgrove",
+    "value": "Exemplary Cyber Consultants",
     "slotSetting": false
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "VerifiedID__client_name",
-    "value": "Woodgrove Helpdesk",
+    "value": "ECC Identity Verification",
     "slotSetting": false
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "name": "VerifiedID__DidAuthority",
-    "value": "did:web:...your did...",
+    "value": "did:web:verifiedid.entra.microsoft.com:82674ab3-a726-4315-9a5d-cc13198cb75f:9854f4cd-e8fa-0915-deba-bd88d45e93fd",
     "slotSetting": false
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "name": "VerifiedID__includeReceipt",
-    "value": "True",
+    "value": "false",
     "slotSetting": false
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "name": "VerifiedID__Purpose",
-    "value": "To prove your identity",
+    "value": "ECC Identity Proofing",
     "slotSetting": false
   },
   {
