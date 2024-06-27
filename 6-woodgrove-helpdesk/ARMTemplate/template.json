@@ -15,7 +15,7 @@
       "metadata": {
         "description": "Github repo URL"
       },
-      "defaultValue": "https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet.git"
+      "defaultValue": "https://github.com/Exemplary-Cyber-Consultants/ECC-Verification-App-Source.git"
     },
     "branch": {
       "type": "string",
@@ -138,11 +138,11 @@
             },
             {
               "name": "AppSettings__UseTeamsWebhook",
-              "value": "false"
+              "value": "true"
             },
             {
               "name": "AppSettings__TeamsWebhookURL",
-              "value": "...set to incoming webhook if you decide to use a Teams Webhook..."
+              "value": "https://teams.microsoft.com/l/channel/19%3Aa4e918adfc4344ce90602a9b9ebe4f4a%40thread.tacv2/ID%20Verification?groupId=19947576-4dd3-46f4-83dc-fb27f0150e86&tenantId=82674ab3-a726-4315-9a5d-cc13198cb75f&ngc=true"
             }
           ]
         }
